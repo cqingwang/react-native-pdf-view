@@ -11,7 +11,7 @@ pjson = JSON.parse(File.read('package.json'))
   s.license         = pjson["license"]
   s.author          = { "cqingwang" => "wangchangqing_2009@126.com" }
   s.ios.deployment_target = '8.0'
-  s.source          = { :git => "https://github.com/cqingwang/react-native-pdf-view", :tag => "v#{s.version}" }
+  s.source          = { :git => "https://github.com/cqingwang/react-native-pdf-view.git", :tag => "v#{s.version}" }
   s.source_files    = '*.{h,m}'
   s.preserve_paths  = "**/*.js"
 
