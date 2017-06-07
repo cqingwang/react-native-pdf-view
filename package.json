@@ -1,12 +1,12 @@
 {
-  "name": "react-native-pdf-view",
+  "name": "@cqingwang/react-native-pdf-view",
   "version": "0.4.0",
   "description": "A pdf file view component for react native.",
   "main": "index.js",
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnjon/react-native-pdf-view.git"
+    "url": "git+https://github.com/cqingwang/react-native-pdf-view.git"
   },
   "keywords": [
     "react-component",
@@ -17,12 +17,12 @@
     "view"
   ],
   "author": {
-    "name": "cnjon",
-    "url": "https://github.com/cnjon"
+    "name": "cqingwang",
+    "url": "https://github.com/cqingwang"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cnjon/react-native-pdf-view/issues"
+    "url": "https://github.com/cqingwang/react-native-pdf-view/issues"
   },
   "peerDependencies": {
     "@types/react": "*",
