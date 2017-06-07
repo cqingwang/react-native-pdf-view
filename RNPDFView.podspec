@@ -16,5 +16,6 @@ pjson = JSON.parse(File.read('package.json'))
   s.preserve_paths  = "**/*.js"
 
   s.dependency 'React/Core'
+  s.dependency 'XCTest'
 
 end
