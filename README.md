@@ -80,6 +80,15 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 }
 ```
 
+```iOS install with pod
+
+Add in Podfile
+
+pod 'RNPDFView', :path => '../node_modules/@cqingwang/react-native-pdf-view'
+
+$ pod install
+```
+
 ### Usage
 
 First, require it from your app's JavaScript files with:
