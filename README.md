@@ -80,7 +80,8 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 }
 ```
 
-```iOS install with pod
+```
+iOS install with pod
 
 Add in Podfile
 
